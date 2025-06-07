@@ -1,2 +1,3 @@
 hi this the update for sample.txt into new branch
 have a nice day kriti
+changing file due to show squash merge whic combines the commit of feature branch and main branch in one commit
