@@ -1,5 +1,0 @@
-hi this the update for sample.txt into new branch
-have a nice day kriti
-changing file due to show squash merge whic combines the commit of feature branch and main branch in one commit
-this for rebase and merge which replay the branch1 commit at the top of main branch commit
-used to maintain a linear commit history without merge commit
